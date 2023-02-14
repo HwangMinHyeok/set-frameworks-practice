@@ -5,13 +5,12 @@ import styled from 'styled-components';
 const BtnWrapper = styled.div`
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
 `;
 const CircleBtn = styled.button`
   width: 50px;
   height: 50px;
-  margin: 5px;
-  font-size: 25px;
+  margin: 10px;
+  font-size: 30px;
   border: none;
   border-radius: 100%;
   background-color: #61dafb;
